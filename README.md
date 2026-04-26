@@ -1,4 +1,4 @@
 # dani-demo-calc-repo
 this is a calc repo
 <br>
-author-daniyal
+author-daniyal-calc
